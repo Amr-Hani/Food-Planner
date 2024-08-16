@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759985624702",
+    "project_id": "foodplanner-4b53e",
+    "storage_bucket": "foodplanner-4b53e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759985624702:android:3e045cbe8e06411304aa2f",
+        "android_client_info": {
+          "package_name": "com.example.foodplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO6W-WqkWs42r8Kjhxh5GSkAuGx21wSWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
